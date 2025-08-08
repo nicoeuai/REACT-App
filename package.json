@@ -1,0 +1,19 @@
+{
+  "name": "react-positive-feelings",
+  "version": "1.0.0",
+  "description": "Einfache React Native (Expo) App zur Stärkung positiver Gefühle.",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "test": "echo 'No tests yet' && exit 0"
+  },
+  "dependencies": {
+    "expo": "^49.0.0",
+    "expo-secure-store": "^12.0.0",
+    "react": "^18.2.0",
+    "react-native": "^0.72.0"
+  },
+  "devDependencies": {
+  },
+  "private": true
+}
